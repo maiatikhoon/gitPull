@@ -21,6 +21,8 @@ console.log(users) ;
 
 console.log("this will be my fifth commit") ; 
 
+console.log("just an sixth commit") ;
+
 // recommended practise 
 
 console.log("make changes"); 
