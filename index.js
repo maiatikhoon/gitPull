@@ -30,3 +30,5 @@ console.log("git add <file>")
 console.log(" git commit ") ; 
 console.log("git pull ")  ;
 console.log("git push") ; 
+
+console.log("merge conflicts are a very common scenario in collaboration") ;
