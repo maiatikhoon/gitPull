@@ -20,3 +20,11 @@ const users = [
 console.log(users) ; 
 
 console.log("this will be my fifth commit") ; 
+
+// recommended practise 
+
+console.log("make changes"); 
+console.log("git add <file>")  
+console.log(" git commit ") ; 
+console.log("git pull ")  ;
+console.log("git push") ; 
