@@ -30,3 +30,6 @@ console.log("git add <file>")
 console.log(" git commit ") ; 
 console.log("git pull ")  ;
 console.log("git push") ; 
+
+
+console.log("merge conflicts can occuer if two of more developers can edit the same part of code at the same time.") ; 
